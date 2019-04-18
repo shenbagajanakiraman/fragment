@@ -18,20 +18,20 @@ article .continue
 .meta
 {
 	padding-left: 0;
-	margin-top: 1.5px;	
+	margin-top: .5px;	
 	margin-bottom: 2px;
 	
 }
 .info
 {
-	background: #f3f3f3;
+	background : #e3e3e3;
 	color:green;
 	padding: 2px;
 	float: left;
 	letter-spacing: .75px;
 }
 
-.info a:hover, article .continue:hover
+.info a:hover, article .continue:hover, .meta a:hover
 {
 	color: black;
 }
